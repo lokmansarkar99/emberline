@@ -43,7 +43,7 @@ export default function Header({ cartCount, pulse, onCartOpen, onSearchClick }: 
             </span>
             <span className="leading-none">
               <span className="font-display text-[22px] font-semibold tracking-tight">
-                Emberline
+                Cafe Orange
               </span>
               <span className="mt-0.5 block text-[9px] font-bold uppercase tracking-[0.3em] text-cocoa">
                 Roasters · PDX
