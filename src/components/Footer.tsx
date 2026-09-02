@@ -20,10 +20,10 @@ export default function Footer() {
   return (
     <footer id="visit" className="relative scroll-mt-16 overflow-hidden bg-leaf-deep text-cream">
       <p
-        className="pointer-events-none select-none whitespace-nowrap text-center font-display text-[19vw] font-semibold leading-[0.8] text-cream/[0.045]"
+        className="pointer-events-none select-none whitespace-nowrap text-center font-display text-[16vw] font-semibold leading-[0.8] text-cream/[0.045]"
         aria-hidden="true"
       >
-        Emberline
+        Cafe Orange
       </p>
 
       <div className="mx-auto -mt-[6vw] max-w-6xl px-4 pb-10 pt-8 sm:px-6 lg:-mt-[4vw]">
@@ -33,7 +33,7 @@ export default function Footer() {
               <span className="grid h-9 w-9 place-items-center rounded-full bg-honey text-ink">
                 <IconBean size={18} />
               </span>
-              <span className="font-display text-2xl font-semibold">Emberline Roasters</span>
+              <span className="font-display text-2xl font-semibold">Cafe Orange</span>
             </p>
             <p className="mt-4 max-w-sm font-display text-[22px] font-light italic leading-snug text-honey-soft">
               Slow coffee, fast friends. The kettle's always on.
@@ -110,7 +110,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-cream/15 pt-6 text-xs font-semibold text-cream/50 sm:flex-row">
-          <p>© {new Date().getFullYear()} Emberline Roasters — a demo storefront, no real orders.</p>
+          <p>© {new Date().getFullYear()} Cafe Orange — a demo storefront, no real orders.</p>
           <p className="flex items-center gap-1.5">
             Roasted with patience in Portland <IconBean size={12} className="text-honey" />
           </p>
