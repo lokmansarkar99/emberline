@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "specialty-coffee-e-commerce-app-0a927"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "specialty-coffee-e-commerce-app-0a927": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "specialty-coffee-e-commerce-app-0a927"
+  ]
+}
