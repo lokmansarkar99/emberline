@@ -2,8 +2,8 @@ import type { Product } from "../types";
 
 export const PRODUCTS: Product[] = [
   {
-    id: "ember-no-9",
-    name: "Ember No. 9",
+    id: "orange-no-9",
+    name: "Orange No. 9",
     tagline: "House espresso · Brazil + Colombia",
     category: "blend",
     categoryLabel: "Espresso blend",
